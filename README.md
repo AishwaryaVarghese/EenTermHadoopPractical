@@ -1,1 +1,1 @@
-# EenTermHadoopPractical
+# EndTermHadoopPractical
